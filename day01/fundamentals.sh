@@ -12,3 +12,5 @@ echo "Enter your name:"
 read userName
 echo "This is your name : $userName"
 
+echo "This is the $0 file name and the parameter is : $1 and $2"
+
